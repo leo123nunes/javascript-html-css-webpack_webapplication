@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(197, 0, 0);
+    background-image: url(../imgs/image.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+
