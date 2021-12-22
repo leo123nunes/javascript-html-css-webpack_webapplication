@@ -2,15 +2,15 @@
 
 Project using webpack-dev-server to create a server in localhost using the dependencies and plugins bellow:
 
-# Languages
+## Languages
 
 Javascript, HTML and CSS
 
-# IDE
+## IDE
 
 Visual Studio Code 1.49.3
 
-# Author
+## Author
 
 👤 **Leonardo Nunes de Oliveira**
 
