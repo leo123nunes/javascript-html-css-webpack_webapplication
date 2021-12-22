@@ -2,7 +2,7 @@
 
 Project using webpack-dev-server to create a server in localhost using the dependencies and plugins bellow:
 
-## Languages
+## Code languages
 
 Javascript, HTML and CSS
 
